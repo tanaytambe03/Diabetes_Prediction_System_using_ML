@@ -5,25 +5,17 @@ The application uses a machine learning algorithm to predict diabetes based on t
 
 Streamlit is a Python library that allows developers to create interactive web applications with minimal code. It is used in this application to create a user-friendly interface for the diabetes prediction system. The user interface consists of input fields for the health parameters, a button to submit the input, and a space to display the prediction result. The application also uses the st.success function to display the prediction result in green if the person is not diabetic or in red if the person is diabetic.
 
-Here are the steps to create a diabetes prediction system using ML with Streamlit:
+Here are the steps to create a diabetes prediction system using ML with Streamlit:-
 
->Collect the dataset: You will need a diabetes dataset to train your model. You can use publicly available datasets such as the Pima Indians Diabetes Dataset.
-
->Data preprocessing: Perform data cleaning, handling missing values, and handling categorical variables.
-
->Feature selection: Select the most important features that affect diabetes.
-
->Splitting the dataset: Split the dataset into training and testing data.
-
->Building the model: Use any classification algorithm like logistic regression, SVM, or random forest to build the model.
-
->Training the model: Train the model on the training dataset.
-
->Evaluating the model: Evaluate the model on the testing dataset.
-
->Saving the model: Save the model using the pickle library.
-
->Creating the UI: Use Streamlit to create a simple web application.
+A) Collect the dataset: You will need a diabetes dataset to train your model. You can use publicly available datasets such as the Pima Indians Diabetes Dataset.
+B) Data preprocessing: Perform data cleaning, handling missing values, and handling categorical variables.
+C) Feature selection: Select the most important features that affect diabetes.
+D) Splitting the dataset: Split the dataset into training and testing data.
+E) Building the model: Use any classification algorithm like logistic regression, SVM, or random forest to build the model.
+F) Training the model: Train the model on the training dataset.
+G) Evaluating the model: Evaluate the model on the testing dataset.
+H) Saving the model: Save the model using the pickle library.
+I) Creating the UI: Use Streamlit to create a simple web application.
 
 Need Help: tanaytambe03@gmail.com
 Cup of Coffee for me: 
