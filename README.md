@@ -8,14 +8,22 @@ Streamlit is a Python library that allows developers to create interactive web a
 Here are the steps to create a diabetes prediction system using ML with Streamlit:-
 
 A) Collect the dataset: You will need a diabetes dataset to train your model. You can use publicly available datasets such as the Pima Indians Diabetes Dataset.
+
 B) Data preprocessing: Perform data cleaning, handling missing values, and handling categorical variables.
+
 C) Feature selection: Select the most important features that affect diabetes.
+
 D) Splitting the dataset: Split the dataset into training and testing data.
+
 E) Building the model: Use any classification algorithm like logistic regression, SVM, or random forest to build the model.
+
 F) Training the model: Train the model on the training dataset.
+
 G) Evaluating the model: Evaluate the model on the testing dataset.
+
 H) Saving the model: Save the model using the pickle library.
+
 I) Creating the UI: Use Streamlit to create a simple web application.
 
 Need Help: tanaytambe03@gmail.com
-Cup of Coffee for me: 
+Cup of Coffee for me-mail me first 
